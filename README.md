@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi!
 
-<!--
-**wonglok/wonglok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Wong Lok. You can call me Lok Lok.
 
-Here are some ideas to get you started:
+I love working on 3D Graphics Framework.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's my latest work:
+
+Object 3D Framework Generation 2 
+[O3D-GEN2](https://github.com/wonglok/o3d-gen2)
+
+
+Linked in Article About the framework.
+[LinkedIn-Article]([https://www.linkedin.com/pulse/learnings-thought-process-creating-3d-game-framework-using-wong-lok/](https://www.linkedin.com/pulse/learnings-thought-process-creating-3d-game-framework-using-wong-lok/))
+
+
