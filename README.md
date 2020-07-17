@@ -11,6 +11,12 @@ Object 3D Framework Generation 2
 
 
 Linked in Article About the framework.
-[LinkedIn-Article]([https://www.linkedin.com/pulse/learnings-thought-process-creating-3d-game-framework-using-wong-lok/](https://www.linkedin.com/pulse/learnings-thought-process-creating-3d-game-framework-using-wong-lok/))
 
 
+[LinkedIn-Article](https://www.linkedin.com/pulse/learnings-thought-process-creating-3d-game-framework-using-wong-lok/)
+
+
+# Contact
+
+@wonglok831 at twitter and IG
+@effectnode at IG 
