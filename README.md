@@ -6,6 +6,9 @@ I love working on 3D Graphics Framework.
 
 Here's my latest work:
 
+Lok Lok EffectNode FX
+https://github.com/wonglok/effectnode-fx/ 
+
 Lok Lok Academy
 [Lok Lok Academy](https://loklok.academy)
   
