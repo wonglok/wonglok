@@ -10,7 +10,8 @@ Lok Lok EffectNode FX
 https://github.com/wonglok/effectnode-fx/ 
 
 
-https://github.com/wonglok/wonglok/assets/4082826/fa30fc5e-1972-4473-8f10-cd7fa57aa1ab
+
+https://github.com/user-attachments/assets/a0aacd2b-9fe2-4e65-b84b-0b5258549833
 
 
 
