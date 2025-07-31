@@ -62,3 +62,15 @@ https://www.anthemawards.com/winners/list/entry/#responsible-technology/product-
 Anthem Awards Judge
 
 ![image](https://user-images.githubusercontent.com/4082826/187057789-26a9743c-6d64-4bab-a767-cd9211975386.png)
+
+
+-----
+
+# Press release for the AIMS app 
+
+https://www.hkmu.edu.hk/URC/HKMU%20Research%20Newsletter/202507/page2.html
+
+
+<img width="1393" height="771" alt="image" src="https://github.com/user-attachments/assets/d067cf06-8cb3-47d3-b1da-9a8dd82454b0" />
+
+
