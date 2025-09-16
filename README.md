@@ -1,6 +1,7 @@
 # Hi!
 
-I'm Wong Lok. You can call me Lok Lok.
+I'm Wong Lok. You can call me Lok Lok. [![committers.top badge](https://user-badge.committers.top/hong_kong_private/wonglok.svg)](https://user-badge.committers.top/hong_kong_private/wonglok)
+
 
 I love working on 3D Graphics Framework.
 
